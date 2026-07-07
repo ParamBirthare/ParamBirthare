@@ -1,4 +1,4 @@
-# Hi, I'm Param Birthare 👋
+# Hi, I'm Param Birthare
 
 Senior Computer Science student at **Texas Tech University** pursuing minors in **Mechanical Engineering** and **Mathematics**.
 
